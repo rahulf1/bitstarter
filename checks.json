@@ -1,2 +1,12 @@
 ["h1",
- ".navigation"]
+ ".navigation",
+ ".pitch",
+ ".section1",
+ ".section2",
+ ".faq",
+ ".footer",
+ ".video",
+ ".thermometer",
+ ".order",
+ ".social"
+]
